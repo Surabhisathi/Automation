@@ -32,7 +32,8 @@ public class HandlingAlerts extends Base
 		al.sendKeys("Surabhi");
 		al.accept();
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		HandlingAlerts alert=new HandlingAlerts();
 		alert.intializeBrowser();
